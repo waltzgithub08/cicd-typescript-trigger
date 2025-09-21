@@ -1,4 +1,4 @@
-!Automated Test Outcome (https://github.com/waltzgithub08/cicd-typescript-trigger/actions/workflows/ci/badge.svg)
+[![ci](https://github.com/waltzgithub08/cicd-typescript-trigger/actions/workflows/ci.yml/badge.svg)](https://github.com/waltzgithub08/cicd-typescript-trigger/actions/workflows/ci.yml)
 
 # learn-cicd-typescript-starter (Notely)
 
